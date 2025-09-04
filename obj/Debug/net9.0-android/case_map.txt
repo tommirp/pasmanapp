@@ -1,0 +1,13 @@
+appicon\appicon_bg;appicon\appicon_bg
+appicon\pasmanicon;appicon\pasmanicon
+images\door_key;images\door_key
+images\door_key_white;images\door_key_white
+images\dotnet_bot;images\dotnet_bot
+images\p_icon;images\p_icon
+images\p_icon_white;images\p_icon_white
+images\pasman_logo;images\pasman_logo
+images\pasman_logo_tagline;images\pasman_logo_tagline
+images\pasman_logo_white;images\pasman_logo_white
+images\pasman_logo_white_tagline;images\pasman_logo_white_tagline
+raw\aboutassets;raw\AboutAssets
+splash\splashpasman;splash\splashpasman
